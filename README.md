@@ -1,0 +1,2 @@
+# SimpleCMSFront
+ dist deploy
